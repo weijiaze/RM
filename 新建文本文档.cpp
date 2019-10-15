@@ -7,6 +7,7 @@ int main()
   a=2;
 b=1;
   printf(%d,a+b);
+
 }
 
 //end
