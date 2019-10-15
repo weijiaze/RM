@@ -1,4 +1,5 @@
 #include "stdio.h"
+//begin
 int main()
 {
   int a,b;
